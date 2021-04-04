@@ -9,7 +9,7 @@
 
 My favorite git command is `git clone` becuase clone is a cool word. 
 
-This is my favorite youtuber, his name is [KSI][https://www.youtube.com/channel/UCGmnsW623G1r-Chmo5RB4Yw]
+This is my favorite youtuber, his name is [KSI][https://www.youtube.com/user/KSIOlajidebtHD]
 
 Well if ur bored [here][Fun-Facts-about-me] back to the top of the Fun facts section.
 
