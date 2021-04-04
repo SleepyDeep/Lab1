@@ -27,7 +27,7 @@ Some of my favorite foods are
 
 - Pizza
 - Chicken
-- Turkey
+- Apples
 
 
 My goals for this quarter are:
