@@ -13,7 +13,7 @@ This is my favorite youtuber, his name is [KSI](https://www.youtube.com/user/KSI
 
 Well if ur bored [here][Fun-Facts-about-me] back to the top of the Fun facts section.
 
-If u want to know about my favorite programming language you can go to my [README-FILE][README.md]
+If u want to know about my favorite programming language you can go to my [README-FILE](README.md)
 
 My top 5 favorite basketball players rn are:
 
