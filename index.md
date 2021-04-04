@@ -39,4 +39,4 @@ My goals for this quarter are:
 
 Here is a picture of Russell Westbrook
 
-![][/Westbrook.png]
+![](Westbrook.png)
